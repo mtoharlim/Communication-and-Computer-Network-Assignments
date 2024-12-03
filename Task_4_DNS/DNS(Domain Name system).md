@@ -2,7 +2,7 @@
 
 The Domain Name System (DNS) is a distributed system that allows devices on a network, such as the internet, to translate domain names into IP addresses. Computers do not understand domain names like `www.google.com`; instead, they rely on IP addresses to locate the correct server.
 
-![How It Works](https://github.com/infans4/Tugas-Komunikasi-dan-Jaringan-Komputer-Pak-Fery/blob/main/Tugas-4_DNS/assets/DNS-Query.jpeg)
+![How It Works](https://github.com/mtoharlim/Communication-and-Computer-Network-Assignments/blob/fd6b162a4083a78442fe40f912c1a17cd9c6771c/Task_4_DNS/alur%20kerja%20dns.jpeg)
 
 ###### Source: [Cloud Raya Blog](https://cloudraya.com/blog/apa-itu-dns/)
 
